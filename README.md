@@ -1,9 +1,9 @@
 Oiii!! Eu sou a Evelyn Costa ✨
 
-- 💻 Engenheira de Computação
+- 💻 Engenheira da Computação
 - 📚 Pós-graduanda em Análise de Dados
 - 🐍 Pythonista comprometida com código limpo e eficiente-
-- 🛢️Habilidade plena em SQL para manipulação eficaz de bancos de dados  
+- 🛢️ Habilidade plena em SQL para manipulação eficaz de bancos de dados  
 - 🧠 Aplicando Machine Learning para resolver desafios complexos
 - 📊 Transformando dados em histórias significativas
 
